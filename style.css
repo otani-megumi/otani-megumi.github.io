@@ -2,6 +2,12 @@ body {
     background-color: rosybrown;
 }
 
+.container {
+
+}
+.header {
+
+}
 h1 {
     color: rgb(26, 116, 108);
 }
@@ -10,10 +16,17 @@ h2 {
     color:rgb(168, 166, 21);
 }
 
-.block1 {
-    background-color: mediumaquamarine;
+.block {
+    padding: 20px;
+}
+.block.shortcut {
+    
 }
 
-.block2 {
-    background-color: rgb(203, 248, 233);
+.block.tag {
+    
+}
+
+.block.css {
+    
 }
